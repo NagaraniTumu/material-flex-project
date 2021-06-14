@@ -28,16 +28,6 @@ export class AppComponent {
       id: 4,
       title: 'Abstract design',
       img: 'https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/U9PP3KXXY2.jpg'
-    },
-    {
-      id: 5,
-      title: 'Tech',
-      img: 'https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/NO9CN3QYR3.jpg'
-    },
-    {
-      id: 6,
-      title: 'Nightlife',
-      img: 'https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/X1UK6NLGRU.jpg'
-    },
-  ];
+    }
+   ];
 }
